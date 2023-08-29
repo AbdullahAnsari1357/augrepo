@@ -1,1 +1,0 @@
-name  =int("the name is to be entered")
